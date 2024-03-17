@@ -54,7 +54,7 @@ module.exports = {
         transparent: "transparent",
       },
       fontFamily: {
-        mono: ["IBM Plex Mono", "monospace"],
+        mono: ["Fira Code", "IBM Plex Mono", "monospace"],
       },
 
       typography: {
@@ -66,6 +66,8 @@ module.exports = {
             code: {
               color: false,
             },
+            'blockquote p:first-of-type::before': { content: 'none' },
+            'blockquote p:first-of-type::after': { content: 'none' },
           },
         },
       },
