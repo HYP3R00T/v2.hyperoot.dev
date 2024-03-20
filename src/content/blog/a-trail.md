@@ -2,7 +2,7 @@
 author: Rajesh
 pubDatetime: 2023-11-23
 title: A trail
-featured: true
+featured: false
 draft: false
 tags:
   - life
