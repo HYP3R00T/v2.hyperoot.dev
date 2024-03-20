@@ -7,7 +7,7 @@ draft: false
 tags:
   - python
   - python-module
-description: "Use this simple trick to execute a folder instead of a single python script"
+description: "Use this simple trick to execute a module instead of a single python script"
 ---
 
 ## Table of contents
