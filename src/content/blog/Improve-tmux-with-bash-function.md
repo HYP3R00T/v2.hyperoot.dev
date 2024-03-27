@@ -7,7 +7,7 @@ draft: false
 tags:
   - tmux
   - linux
-description: "A better to manage tmux sessions"
+description: "A better way to manage tmux sessions"
 ---
 
 Are you tired of juggling multiple terminal windows and tabs just to keep your work organized? Enter `tmux`, a powerful terminal multiplexer that can revolutionize the way you work in the command line.
