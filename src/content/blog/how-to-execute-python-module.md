@@ -2,7 +2,7 @@
 author: Rajesh
 pubDatetime: 2024-03-20
 title: How to execute python module?
-featured: true
+featured: false
 draft: false
 tags:
   - python
