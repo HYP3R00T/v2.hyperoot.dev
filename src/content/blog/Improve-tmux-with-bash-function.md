@@ -37,6 +37,6 @@ Let's break down what this script does:
 - The session_name is constructed using the names of the parent and current directories, removing any spaces or hyphens. This helps maintain a clean and consistent naming convention for your `tmux` sessions.
 - If a session with the same name already exists, the script attaches to it. Otherwise, it creates a new session.
 
-To use this script, simply add it to your shell configuration file (e.g., .bashrc, .zshrc) and reload your shell. Now, instead of manually managing `tmux` sessions, you can simply type tm in your terminal to create or attach to a session based on your current directory.
+To use this script, simply add it to your shell configuration file (e.g., `.bashrc`, `.zshrc`) and reload your shell. Now, instead of manually managing `tmux` sessions, you can simply type `tm` in your terminal to create or attach to a session based on your current directory.
 
 With this streamlined workflow, you can say goodbye to terminal clutter and focus on what really matters – getting things done. Give it a try and experience the power of `tmux` sessions firsthand!
