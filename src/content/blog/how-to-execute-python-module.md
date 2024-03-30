@@ -10,7 +10,11 @@ tags:
 description: "Use this simple trick to execute a module instead of a single python script"
 ---
 
-## Table of contents
+## Watch as a video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXtd6Ec_osw?si=wAB1PtbsHFoCS9A3" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+
+## Table of Contents
 
 ## Execute python script in terminal
 
