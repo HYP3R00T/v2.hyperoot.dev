@@ -46,4 +46,8 @@ export default defineConfig({
     },
   },
   scopedStyleStrategy: "where",
+  redirects: {
+    '/linkedin': 'https://www.linkedin.com/in/rajesh-kumar-das/',
+    '/github': 'https://github.com/HYP3R00T',
+  }
 });
