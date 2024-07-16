@@ -13,6 +13,10 @@ description: 'Learn how to create a custom VSCode extension to organize and cate
 
 Hey there, fellow developers! If you're like me, you probably spend a lot of time in Visual Studio Code (VSCode), and over time, your `settings.json` file might have become a bit of a mess. With so many extensions and configurations, it can be tough to keep things neat and tidy. So, I decided to tackle this problem head-on by creating a custom VSCode extension to organize my settings.
 
+Extension: [Settings Organizer](https://marketplace.visualstudio.com/items?itemName=hyperoot.settings-organizer)
+
+GitHub: [HYP3R00T/settings-organizer](https://github.com/HYP3R00T/settings-organizer)
+
 ## Project Overview
 
 The idea behind this project is pretty simple: create an extension that categorizes and sorts your `settings.json` file. I wanted to make sure that settings related to different parts of the editor, like the window, workbench, explorer, editor, terminal, git, extensions, and anything else, are grouped together. This way, everything is easy to find, and the file looks much cleaner.
